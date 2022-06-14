@@ -5,6 +5,7 @@ let arr1 = ["g", "o", "t", "y", "r"];
 let arr2 = ["banana", "orange", "mango", "coconut", "rumton"];
 
 let num1 = ["banana", "orange", "mango", 7, 9, 5, 7, 8, 5, 2, 4, 3, 6];
+
 /*************************************************************************************** */
 //1) at()  .....WILL NEVER CHANGE THE ORIGINAL ARRAY
 
