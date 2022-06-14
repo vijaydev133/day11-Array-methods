@@ -103,8 +103,8 @@ let num1 = ["banana", "orange", "mango", 7, 9, 5, 7, 8, 5, 2, 4, 3, 6];
 /*************************************************************************************** */
 //10) lastIndexOf()  .....WILL NEVER CHANGE THE ORIGINAL ARRAY
 
-function lastIndexOfMethod(x) {
-  return x.lastIndexOf(6);
-}
+// function lastIndexOfMethod(x) {
+//   return x.lastIndexOf(6);
+// }
 
-console.log(lastIndexOfMethod(num));
+// console.log(lastIndexOfMethod(num));
